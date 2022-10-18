@@ -5,6 +5,7 @@ public class Test {
     {
         System.out.println("asdfasdf");
 
+        System.out.println("asdfasdf");
 
     }
 }
